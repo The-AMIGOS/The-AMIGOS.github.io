@@ -3,8 +3,8 @@ The site is hosted via GitHub. See the master_ branch.
 
 .. _master: https://github.com/The-AMIGOS/The-AMIGOS.github.io/tree/master
 
-Quickstart
-----------
+Quickstart - Build the site locally
+-----------------------------------
 
 Something like::
 
