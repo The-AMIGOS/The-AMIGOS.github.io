@@ -12,7 +12,7 @@ Something like this:
 
 **2)** Head over to the `AMIGOS site REPO`_    
 
-**3)** Find the page your interested in (content/pages). Use the schedule as an example. _`Direct link`.
+**3)** Find the page your interested in (content/pages). Use the schedule as an example. `Direct link`_.
 
 **4)** Click the edit link (pencil icon, shown)
 
