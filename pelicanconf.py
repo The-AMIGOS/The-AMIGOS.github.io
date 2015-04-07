@@ -6,21 +6,29 @@ import os
 
 AUTHOR = u'AMIGOS Team'
 SITENAME = u'AMIGOS - Australian MIcrobial GenOmics Symposium'
-#SITEURL = 'http://the-amigos.github.io'
-#RELATIVE_URLS = False
 SITELOGO = 'images/AMIGOS_logo.png'
 
-PATH = 'content'
-
 TIMEZONE = 'Australia/Brisbane'
-
 DEFAULT_LANG = u'en'
 
+PATH = 'content'
 STATIC_PATHS = ['images']
 
+# Theming
+CWD = os.getcwd()
+THEME = os.path.join(CWD, "theme/pelican-bootstrap3")
 BOOTSTRAP_FLUID = True
 BOOTSTRAP_THEME = 'paper'
+SITESUBTITLE = 'Australian MIcrobial GenOmics Symposium'
+FOOTER_TEXT = '(c) 2015 Mitchell Stanton-Cook'
 
+#Tweak visually
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_SIDEBAR = False
+DISPLAY_TAGS_ON_SIDEBAR = False
+
+#Plugins
 PLUGINS = ['google_embed']
 GMAPS_KEY = 'AIzaSyBPfFOk3PUgeWkKPcE_2oeiD7LeAS_SUHY'
 
@@ -50,20 +58,6 @@ SOCIAL = (('twitter', 'http://twitter.com/WeAreTheAMIGOS'),
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
-CWD = os.getcwd()
-THEME = os.path.join(CWD, "theme/pelican-bootstrap3")
-SITESUBTITLE = 'Australian MIcrobial GenOmics Symposium'
-FOOTER_TEXT = '(c) 2015 Mitchell Stanton-Cook'
-
-#Tweak visually
-DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_PAGES_ON_MENU = True
-DISPLAY_CATEGORIES_ON_SIDEBAR = False
-DISPLAY_TAGS_ON_SIDEBAR = False
-
 # Theme specific options for GitHub
 GITHUB_USER = 'The-AMIGOS'
 GITHUB_REPO_COUNT = 3
@@ -72,4 +66,3 @@ GITHUB_SKIP_FORK = True
 #Misc
 GOOGLE_ANALYTICS_UNIVERSAL = 'UA-61636685-1'
 CC_LICENSE = "CC-BY-NC-SA"
-DIRECT_TEMPLATES = (('search',))
