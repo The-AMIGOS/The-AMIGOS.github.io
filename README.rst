@@ -42,15 +42,17 @@ Quickstart - Build & develop the site locally
 
 Something like::
 
-    $ git https://github.com/The-AMIGOS/The-AMIGOS.github.io.git
+    $ git clone https://github.com/The-AMIGOS/The-AMIGOS.github.io.git
     $ cd The-AMIGOS.github.io
     $ # make a virtualenv. Otherwise you end up with required deps system wide
     $ pip install -r requirements.txt
+    $ make clean && make html
     $ ./develop_server.sh start
     $ # Webbrowser to 127.0.0.1:8000
     $ vi content/pages/ 
     $ # edit, edit & edit
     $ Webbrowser to 127.0.0.1:8000
+    $ # ...
     $ # Send me a pull request!
     $ # Profit
 
@@ -62,7 +64,7 @@ ghp-import and custom domain setup instructions_.
 
 I use a post-commit hook to publish the pages::
 
-    make clean && make html && cp content/.nojekyll output/ && cp content/.CNAME output/CNAME && ghp-import -b master -p -m 'Site build' output &&
+    make clean && make html && cp content/.nojekyll output/ && cp content/.CNAME output/CNAME && ghp-import -b master -p -m 'Site build' output 
 
 Note - you need to do some branch wrangling. Make master == pelican-source and gh-pages == master.
 
