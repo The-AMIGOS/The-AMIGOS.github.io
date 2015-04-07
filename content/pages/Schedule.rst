@@ -26,7 +26,7 @@ Tuesday 14/04/15
 | 3.50 PM - Menzies/Tong Lab
 | BREAK
 | 4.10 PM - Survey results
-| 4.20 PM - Someone important speaks
+| 4.20 PM - Overview talk (invited)
 | 4.50 PM - Explain the format
 | 5.00 PM - Pitches
 | 5.30 PM - Voting
@@ -68,7 +68,7 @@ me know/submit a pull request.
 It may be of merit to have this before the lab talks...
 
 
-**Someone important talks -** Depends on availability. Ideally they focus on 
+**Overview talk (invited) -** Depends on availability. Ideally they focus on 
 Lab ---> clinic research. Importance of communication/collaboration etc. 
 
 
