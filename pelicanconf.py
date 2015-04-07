@@ -7,6 +7,7 @@ import os
 AUTHOR = u'AMIGOS Team'
 SITENAME = u'AMIGOS - Australian MIcrobial GenOmics Symposium'
 SITEURL = 'http://the-amigos.github.io'
+RELATIVE_URLS = False
 SITELOGO = 'images/AMIGOS_logo.png'
 
 PATH = 'content'
