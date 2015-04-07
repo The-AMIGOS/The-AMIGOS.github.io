@@ -22,5 +22,5 @@ spectacular harbour views.
 | 
 | 
 
-#.. gmaps:: Land's Edge Sydney Harbour
-#    :mode: place
+.. gmaps:: Land's Edge Sydney Harbour
+    :mode: place

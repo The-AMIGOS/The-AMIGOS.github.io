@@ -26,6 +26,6 @@ survey_ has been devloped to help shape the event.
 .. image:: ../images/hackaton.jpg
 
 
-.. _held: http://todo
-.. _program: http://todo
-.. _survey: http://todo
+.. _held: http://theamigos.space/pages/venue.html
+.. _program: http://theamigos.space/pages/program.html
+.. _survey: http://theamigos.space/pages/survey.html
