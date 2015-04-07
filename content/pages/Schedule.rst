@@ -51,7 +51,7 @@ Thursday 16/04/15
 | BREAKFAST
 | 9.00  AM - Reports
 | 10.15 AM - Wrap-up
-| DEPART
+| DEPART (is this too early?)
 |
 
 
