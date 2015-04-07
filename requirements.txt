@@ -1,4 +1,0 @@
-ghp-import==0.4.1
-google-embed==0.1.0
-Fabric==1.10.1
-pelican==3.5.0
