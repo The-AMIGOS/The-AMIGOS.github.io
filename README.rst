@@ -73,4 +73,4 @@ help: m.stantoncook--AT--gmail.com
 .. _instructions: https://github.com/getpelican/pelican/blob/master/docs/tips.rst
 .. _GitHub: https://github.com/
 .. _`AMIGOS site REPO`: https://github.com/The-AMIGOS/The-AMIGOS.github.io
-.. _`direct link`: https://github.com/The-AMIGOS/The-AMIGOS.github.io/blob/pelican-source/content/pages/Schedule.rst
+.. _`Direct link`: https://github.com/The-AMIGOS/The-AMIGOS.github.io/blob/pelican-source/content/pages/Schedule.rst
