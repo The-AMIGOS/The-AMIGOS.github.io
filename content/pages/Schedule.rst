@@ -95,4 +95,4 @@ results, outcomes and future.
 
 .. _reStructuredText: http://docutils.sourceforge.net/docs/user/rst/quickref.html
 .. _Pelican: http://docs.getpelican.com/en/3.5.0/
-.. _here: https://github.com/The-AMIGOS/The-AMIGOS.github.io/blob/master/content/pages/Schedule.rst
+.. _here: https://github.com/The-AMIGOS/The-AMIGOS.github.io/blob/pelican-source/content/pages/Schedule.rst
