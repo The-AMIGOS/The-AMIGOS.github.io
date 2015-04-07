@@ -6,8 +6,8 @@ import os
 
 AUTHOR = u'AMIGOS Team'
 SITENAME = u'AMIGOS - Australian MIcrobial GenOmics Symposium'
-SITEURL = 'http://the-amigos.github.io'
-RELATIVE_URLS = False
+#SITEURL = 'http://the-amigos.github.io'
+#RELATIVE_URLS = False
 SITELOGO = 'images/AMIGOS_logo.png'
 
 PATH = 'content'
@@ -19,7 +19,7 @@ DEFAULT_LANG = u'en'
 STATIC_PATHS = ['images']
 
 #BOOTSTRAP_FLUID = True
-BOOTSTRAP_THEME = 'Paper'
+BOOTSTRAP_THEME = 'paper'
 
 PLUGINS = ['google_embed']
 GMAPS_KEY = 'AIzaSyBPfFOk3PUgeWkKPcE_2oeiD7LeAS_SUHY'
