@@ -18,7 +18,7 @@ DEFAULT_LANG = u'en'
 
 STATIC_PATHS = ['images']
 
-#BOOTSTRAP_FLUID = True
+BOOTSTRAP_FLUID = True
 BOOTSTRAP_THEME = 'paper'
 
 PLUGINS = ['google_embed']
