@@ -1,7 +1,7 @@
-This is the AMIGOS pelican site. The site is hosted via GitHub. See the 
-gh-pages_ branch. 
+This is the AMIGOS pelican site. This is the source and pelican config. 
+The site is hosted via GitHub. See the master_ branch. 
 
-.. _gh-pages: https://github.com/The-AMIGOS/The-AMIGOS.github.io/tree/gh-pages
+.. _master: https://github.com/The-AMIGOS/The-AMIGOS.github.io/tree/master
 
 Quickstart
 ----------
@@ -24,7 +24,9 @@ ghp-import and custom domain setup instructions_.
 
 I use a post-commit hook to publish the pages::
 
-    pelican content -o output -s pelicanconf.py && cp CNAME output/ && ghp-import output && git push origin gh-pages
+    pelican content -o output -s pelicanconf.py && cp content/CNAME output/ && ghp-import output && git push origin master
+
+Note - you need to do some branch wrangling. Make master == pelican-source and gh-pages == master.
 
 .. _instructions: https://github.com/getpelican/pelican/blob/master/docs/tips.rst
 
