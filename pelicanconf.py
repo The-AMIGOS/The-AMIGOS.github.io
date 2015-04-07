@@ -20,7 +20,6 @@ STATIC_PATHS = ['images']
 #BOOTSTRAP_FLUID = True
 BOOTSTRAP_THEME = 'Paper'
 
-
 PLUGINS = ['google_embed']
 GMAPS_KEY = 'AIzaSyBPfFOk3PUgeWkKPcE_2oeiD7LeAS_SUHY'
 
