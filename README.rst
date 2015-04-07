@@ -12,7 +12,8 @@ Something like this:
 
 **2)** Head over to the `AMIGOS site REPO`_    
 
-**3)** Find the page your interested in (content/pages). Use the schedule as an example. `Direct link`_.
+**3)** Find the page your interested in (content/pages). Use the schedule as 
+an example. `Direct link`_
 
 **4)** Click the edit link (pencil icon, shown)
 
@@ -26,9 +27,11 @@ Something like this:
 .. image:: https://raw.githubusercontent.com/The-AMIGOS/The-AMIGOS.github.io/pelican-source/instructions/editing.jpg
 |
 
-**6)** Scroll to the bottom. Fill in the info on your change. Click the Propose Change button.
+**6)** Scroll to the bottom. Fill in the info on your change. Click the 
+Propose Change button
 
-**7)** Click the Create Pull Request button (shown), then click the next Create Pull Request button.
+**7)** Click the Create Pull Request button (shown), then click the next 
+Create Pull Request button (yes, twice)
 
 |
 .. image:: https://raw.githubusercontent.com/The-AMIGOS/The-AMIGOS.github.io/pelican-source/instructions/pr.jpg
@@ -36,6 +39,8 @@ Something like this:
 
 **8)** Wait for review and incorporation into the AMIGOS site...
 
+|
+|
 
 Quickstart - Build & develop the site locally
 ---------------------------------------------
@@ -51,7 +56,7 @@ Something like::
     $ # Webbrowser to 127.0.0.1:8000
     $ vi content/pages/ 
     $ # edit, edit & edit
-    $ Webbrowser to 127.0.0.1:8000
+    $ # Webbrowser to 127.0.0.1:8000
     $ # ...
     $ # Send me a pull request!
     $ # Profit
