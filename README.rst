@@ -28,6 +28,8 @@ I use a post-commit hook to publish the pages::
 
 Note - you need to do some branch wrangling. Make master == pelican-source and gh-pages == master.
 
+Also, occassionally run *make clean*.
+
 .. _instructions: https://github.com/getpelican/pelican/blob/master/docs/tips.rst
 
 help: m.stantoncook_-AT-_gmail.com
