@@ -24,12 +24,11 @@ ghp-import and custom domain setup instructions_.
 
 I use a post-commit hook to publish the pages::
 
-    pelican content -o output -s pelicanconf.py && cp content/CNAME output/ && ghp-import output && git push origin master
+    make clean && make html && cp content/.nojekyll output/ && cp content/.CNAME output/CNAME && ghp-import -b master -p -m 'Site build' output &&
 
 Note - you need to do some branch wrangling. Make master == pelican-source and gh-pages == master.
 
-Also, occassionally run *make clean*.
 
 .. _instructions: https://github.com/getpelican/pelican/blob/master/docs/tips.rst
 
-help: m.stantoncook_-AT-_gmail.com
+help: m.stantoncook--AT--gmail.com
