@@ -22,6 +22,10 @@ Something like::
 
 ghp-import and custom domain setup instructions_.
 
+I use a post-commit hook to publish the pages::
+
+    pelican content -o output -s pelicanconf.py && cp CNAME output/ && ghp-import output && git push origin gh-pages
+
 .. _instructions: https://github.com/getpelican/pelican/blob/master/docs/tips.rst
 
 help: m.stantoncook_-AT-_gmail.com
