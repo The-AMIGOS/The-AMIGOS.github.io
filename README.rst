@@ -1,4 +1,7 @@
-This is the AMIGOS pelican site.
+This is the AMIGOS pelican site. The site is hosted via GitHub. See the 
+gh-pages_ branch. 
+
+.. _gh-pages: https://github.com/The-AMIGOS/The-AMIGOS.github.io/tree/gh-pages
 
 Quickstart
 ----------
@@ -17,6 +20,8 @@ Something like::
     $ # Send me a pull request!
     $ # Profit
 
-For ghp-import and custom domain setup see:
+ghp-import and custom domain setup instructions_.
 
-https://github.com/getpelican/pelican/blob/master/docs/tips.rst
+.. _instructions: https://github.com/getpelican/pelican/blob/master/docs/tips.rst
+
+help: m.stantoncook_-AT-_gmail.com
