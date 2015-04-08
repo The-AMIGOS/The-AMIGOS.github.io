@@ -11,54 +11,66 @@ page in reStructuredText_ is available here_.
 
 Tuesday 14/04/15
 ----------------
-| (Assume everyone has had lunch)
-| 1.00 PM - Introduction & housekeeping
-| LAB TALKS 
-| 1.10 PM - Beatson Lab
-| 1.30 PM - Darling Lab
-| 1.50 PM - Holt Lab
-| 2.10 PM - Myers Lab
-| BREAK
-| 2.30 PM - Petty Lab
-| 2.50 PM - VLSCI/Seemann Lab
-| 3.10 PM - Stinear Lab
-| 3.30 PM - Thomas Lab
-| 3.50 PM - Menzies/Tong Lab
-| BREAK
-| 4.10 PM - Survey results
-| 4.20 PM - Overview talk (invited)
-| 4.50 PM - Explain the format
-| 5.00 PM - Pitches
-| 5.30 PM - Voting
-| 6.00 PM - Team forming & planning
-| 6.30 PM - DINNER & Drinks and further planning
-|
+
+==============  ==============================================================
+**Time**        **Speaker/Activity**
+--------------  --------------------------------------------------------------
+13.00           Introduction & housekeeping
+13.10           Beatson Lab Representative
+13.30           Darling Lab Representative
+13.50           Holt Lab Representative
+14.10           Myers Lab Representative
+Break           Break
+14.30           Petty Lab Representative
+14.50           VLSCI/Seemann Lab
+15.10           Stinear Lab Representative
+15.30           Thomas Lab Representative
+15.50           Menzies/Tong Lab Representative
+Break           Break
+16.10           Survey results
+16.20           Overview talk (invited)
+16.50           Explain the format
+17.00           Pitches
+17.30           Voting
+18.00           Team forming & planning
+18.30           Dinner, drinks and further planning
+==============  ==============================================================
+
 
 Wednesday 15/04/15
 ------------------
-| BREAKFAST
-| 9.00  AM - Morning session
-| 11.45 AM - Pre-lunch check in 
-| LUNCH
-| 12.15 PM - Afternoon session
-| 6.15  PM - Pre-dinner check in
-| DINNER
-| 8.00 PM  - Night session (based on interest). Prepare slides for next day.
-|
+
+==============  =============================================
+**Time**        **Speaker/Activity**
+--------------  ---------------------------------------------
+Breakfast       Breakfast
+09.00           Morning session
+11.45           Pre-lunch check in 
+Lunch           Lunch
+12.15           Afternoon session
+18.15           Pre-dinner check in
+Dinner          Dinner
+20.00?          Night session?
+==============  =============================================
+
 
 Thursday 16/04/15
 -----------------
-| BREAKFAST
-| 9.00  AM - Reports
-| 10.15 AM - Wrap-up
-| DEPART
-|
+
+==============  =============================================
+**Time**        **Speaker/Activity**
+--------------  ---------------------------------------------
+Breakfast       Breakfast
+09.00           Reports
+10.15           Wrap-up
+Depart          Depart
+==============  =============================================
 
 
 Notes
 -----
 **Lab talks -** Group leaders/lab representatives/important people speak 
-about a theme interest. Ideally their talk will be related to an idea/
+about a theme of interest. Ideally their talk will be related to an idea/
 problem they wish to work on over the following day. Some groups may not 
 want to talk and I may have missed some people. Please do not hesitate to let 
 me know/submit a pull request.
@@ -78,7 +90,7 @@ are invited to convince others why they should work with them tomorrow on
 a problem/idea/plan. Pitch is for 60 seconds. 
 
 
-**Wednesday -** Work all day (& night if you're keen) on the problem/idea/
+**Wednesday -** Work all day (and night if you're keen) on the problem/idea/
 plan in the team you picked. Groups do not need to be coding focused. For 
 example - develop Microbial Genomics teaching resources, literature reviews,
 skills transfer (intro to digital research skills/tools) etc. Ideally group 
