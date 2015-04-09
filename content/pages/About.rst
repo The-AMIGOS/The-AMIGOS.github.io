@@ -3,7 +3,7 @@
 :save_as: index.html
 
 Australian MIcrobial GenOmics Symposium (AMIGOS) is a gathering of 
-approximately 40 researchers working in Australia in the field of Microbial 
+approximately 45 researchers working in Australia in the field of Microbial 
 Genomics.
 
 AMIGOS will:
