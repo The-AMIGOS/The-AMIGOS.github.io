@@ -8,6 +8,9 @@ is named after whalers who made chowder from the bay's seafood. It is a
 popular spot for swimming and picnicking. There are large grassy areas and 
 spectacular harbour views.
 
+Chowder Bay is approximately 25 km from Sydney Airport. The estimated Taxi 
+fare is $70. 
+
 
 | Land's Edge Sydney Harbour
 | Building 1, Chowder Bay Road
