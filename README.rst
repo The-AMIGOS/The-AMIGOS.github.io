@@ -73,7 +73,8 @@ I use a post-commit hook to publish the pages::
 
 Note - you need to do some branch wrangling. Make master == pelican-source and gh-pages == master.
 
-help: m.stantoncook--AT--gmail.com
+
+help: Mitchell Stanton-Cook, m.stantoncook--AT--gmail.com
 
 
 .. _master: https://github.com/The-AMIGOS/The-AMIGOS.github.io/tree/master
